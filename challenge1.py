@@ -1,3 +1,4 @@
+#input + confirmation
 confirm = 'n'
 while confirm == 'n':
     AnimalName = input("Enter the name: ")
